@@ -3,3 +3,4 @@ FROM alpine
 COPY invertimi.txt /app/
 
 CMD rev /app/invertimi.txt
+
